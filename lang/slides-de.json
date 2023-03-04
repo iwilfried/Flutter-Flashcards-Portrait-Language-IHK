@@ -155,6 +155,125 @@
 				}
 			]
 		},
+		
+		{
+			"categoryName": "Fragen Datenschutz IHK",
+			"FlashCardMaker": "IHK Stade",
+			"explanation": "IHK Stade für den Elbe-Weser-Raum - Kontakt: Eike Thiel - Tel: 04141 524-152",
+			"slides": [
+				{
+					"First Side": "Welche Arten von Daten sind durch die DSGVO geschützt?",
+					"Second Side": "Alle Arten von personenbezogenen Daten werden durch die DSGVO geschützt und dies unabhängig davon, um welche Kategorie von Personen es geht, also ob es sich hierbei um \n-Mitarbeiter-, \n-Geschäftspartner-, \n-Kunden- oder Lieferantendaten handelt.",
+					"Learn more": "Für die DSGVO gilt wie für alle weiteren Datenschutzgesetze: Sie sind immer dann zu beachten, wenn Unternehmen mit sog. personenbezogenen Daten umgehen. Hierunter versteht man alle Informationen, die sich direkt oder indirekt (z. B. über eine Kennung) auf einen Menschen (sog. „identifizierte oder identifizierbare natürliche Person“ bzw. „betroffene Person“) beziehen lassen. Um Angaben über eine bestimmte Person handelt es sich, wenn die Daten mit dem Namen der betroffenen Person verbunden sind oder sich aus dem Inhalt bzw. dem Zusammenhang der Bezug unmittelbar herstellen lässt."
+				},
+				{
+					"First Side": "Ich habe nur Firmenkunden. Muss ich den Datenschutz trotzdem beachten?",
+					"Second Side": "Datenschutz gilt grundsätzlich auch im Geschäftsverkehr mit anderen Unternehmen.",
+					"Learn more": "Einzelangaben über juristische Personen, wie zum Kapitalgesellschaften oder eingetragene Vereine, sind keine personenbezogenen Daten. Etwas anderes gilt nur, wenn sich die Angaben auch auf die hinter der juristischen Person stehenden Personen beziehen, das heißt auf sie „durchschlagen“. Dies kann beispielsweise bei der GmbH einer Einzelperson oder bei einer Einzelfirma der Fall sein. In der Regel haben Sie bei Firmenkunden einen Ansprechpartner und erheben z. B. Name, personalisierte E-Mail-Adresse, Funktion im Unternehmen usw. Hierbei handelt es sich wiederum um personenbezogene Daten, da eine natürliche Person identifizierbar ist. "
+				},
+				{
+					"First Side": "Ist das Bundesdatenschutzgesetz (BDSG) neben der DSGVO weiterhin anwendbar?",
+					"Second Side": "Ja, die grundlegenden Vorschriften befinden sich in der DSGVO, aber z. B. zum betrieblichen Datenschutzbeauftragten oder zum Beschäftigtendatenschutz gibt das BDSG Konkretisierungen.",
+					"Learn more": "Das BDSG gilt weiterhin, allerdings deutlich reduziert. Die DSGVO gilt zwar unmittelbar für alle EU-Mitgliedstaaten und muss nicht erst in jeweils nationales Recht umgesetzt werden. Damit wollte der EU-Gesetzgeber eine Einheitlichkeit innerhalb der Mitgliedstaaten erreichten. Die DSGVO enthält aber mehr als 60 Öffnungsklauseln, die es den Mitgliedstaaten erlauben, wesentliche Aspekte national zu lösen, die nicht ausdrücklich allein der DSGVO vorbehalten sind. Daher gelten beide Regelwerke in einem komplizierten Regel-Ausnahme-System nebeneinander, was die Rechtsanwendung schwierig macht. "
+				},
+				{
+					"First Side": "Gilt das Datenschutzrecht auch bei Dateien, die in Papierform verarbeitet werden?",
+					"Second Side": "Ja, die DSGVO unterscheidet nicht zwischen Papier- und elektronischer Verarbeitung.",
+					"Learn more": "Bei einer papiergebundenen Datenverarbeitung muss aber eine strukturierte Sammlung von personenbezogenen Daten vorhanden sein. Kleine Notizen auf Blöcken oder „Post-it“ Aufkleber fallen also nicht darunter, wenn sie nicht geordnet abgelegt werden. "
+				},
+				{
+					"First Side": "Werden auch Kleingewerbetreibende von der DSGVO erfasst?",
+					"Second Side": "Ja, alle Unternehmen müssen ihre Datenverarbeitungsvorgänge an die neuen Vorgaben der DSGVO anpassen.",
+					"Learn more": "Dies gilt nicht nur für große, sondern auch für kleine Unternehmen. Kleine Unternehmen sind lediglich von einzelnen wenigen Pflichten ausgenommen; dies betrifft etwa unter Umständen die Pflicht zur Bestellung eines Datenschutzbeauftragten. Ansonsten müssen sämtliche Vorgaben umgesetzt werden, denn unter die DSGVO fällt jede Stelle (also auch jedes Unternehmen unabhängig von der Mitarbeiterzahl oder Branche), die personenbezogene Daten (z. B. Name, Vorname, Anschrift, Telefonnr., E-Mail-Adresse etc.) innerhalb der EU verarbeitet (z. B. erfassen, speichern, übermitteln, auslesen, verändern etc. von Daten). "
+				},
+				{
+					"First Side": "Fallen auch außereuropäische Unternehmen unter die DSGVO?",
+					"Second Side": "Ja",
+					"Learn more": "Ja, wenn sie Waren oder Dienstleistungen anbieten oder die Verhaltensweisen ihrer Kunden in Europa zum Beispiel mittels „Profiling“ überwachen, wird die DSGVO angewendet. "
+				},
+				{
+					"First Side": "Wann können Daten rechtmäßig verarbeitet werden?",
+					"Second Side": "Für die Rechtmäßigkeit gibt es mehrere Rechtsgrundlagen",
+					"Learn more": "Im geschäftlichen Verkehr mit Kunden kommen insbesondere vertragliche Vereinbarungen und die Einwilligung in Betracht. Daneben können auch Gesetze eine Verarbeitung rechtfertigen. "
+				},
+				{
+					"First Side": "Brauche ich für jede Datenerhebung/-verarbeitung immer eine Einwilligung?",
+					"Second Side": "Nein, Sie benötigen für jede Verarbeitung von personenbezogenen Daten eine datenschutzrechtliche Rechtsgrundlage ",
+					"Learn more": "Sie benötigen für jede Verarbeitung von personenbezogenen Daten eine datenschutzrechtliche Rechtsgrundlage (etwa Vertrag oder Anbahnung eines Vertrags, Einwilligung, Interessenabwägung berechtigtes Interesse). Die Rechtsgrundlage kann in bestimmten Fällen auch eine Einwilligung sein (z. B. Anmeldung zum Bezug eines Newsletters, Geburtstagsliste von Mitarbeitern). Beruht die Datenverarbeitung auf einer vertraglichen Basis, um den Vertrag abzuwickeln, sind Einwilligungen für die Erhebung und Verarbeitung der Daten nicht erforderlich. Aber Vorsicht: Sollen die so erhobenen Daten für andere Zwecke als die Vertragsabwicklung verarbeitet werden (z. B. Verwertung der Daten für eine Studie oder Weitergabe der Daten an Dritte), so bedarf es einer Einwilligung für den neuen Zweck. "
+				},
+				{
+					"First Side": "Wie sieht eine Einwilligung aus?",
+					"Second Side": "Eine wirksame Einwilligung muss",
+					"Learn more": "über den Zweck der Verarbeitung informieren \n- freiwillig erteilt sein, d. h. sie darf nicht an eine Bedingung gekoppelt sein \n- eindeutig sein, also das Einverständnis muss deutlich werden und \n- den Hinweis enthalten, dass sie mit Wirkung für die Zukunft jederzeit widerrufen werden kann."
+				},
+				{
+					"First Side": "Was bedeutet die Rechenschaftspflicht?",
+					"Second Side": "Sie bedeutet, dass Unternehmen in der Lage sein müssen, gegenüber Aufsichtsbehörden nachzuweisen, dass sie alle Vorgaben des Datenschutzes einhalten.",
+					"Learn more": "Hierzu gehören auch die Datenschutzgrundsätze."
+				},
+				{
+					"First Side": "Darf ich die Daten meiner Mitarbeiter verarbeiten?",
+					"Second Side": "Die Daten von Stellenbewerbern, Mitarbeitern und ausgeschiedenen Mitarbeitern dürfen nach § 26 BDSG zur Begründung, Durchführung und Beendigung des Arbeitsverhältnisses verarbeitet werden.",
+					"Learn more": "Geht eine Datenverarbeitung aber über diesen Zweck hinaus, z. B. die Veröffentlichung von Fotos auf der Firmenhomepage, ist darüber hinaus eine Einwilligung erforderlich. Eine Einwilligung muss immer freiwillig sein. Es dürfen bei Verweigerung also keine Nachteile drohen. "
+				},
+				{
+					"First Side": "Was ist ein Datenschutzmanagement?",
+					"Second Side": "Zu einem Datenschutz-Managementsystem gehören u. a. die Führung eines Verzeichnisses von Verarbeitungstätigkeiten",
+					"Learn more": "...ein Vertragsmanagement, Prozesse zur Meldung von Datenpannen und zur Wahrnehmung von Betroffenenrechten, ferner die Schulung von Mitarbeitern sowie deren Verpflichtung zur Verschwiegenheit und ein Datensicherheitskonzept."
+				},
+				{
+					"First Side": "Was ist ein Verzeichnis von Verarbeitungstätigkeiten?",
+					"Second Side": "Ein solches Verzeichnis ist eine Zusammenfassung von einzelnen Verarbeitungsvorgängen, bei denen personenbezogene Daten automatisiert verarbeitet werden",
+					"Learn more": "Ein solches Verzeichnis ist eine Zusammenfassung von einzelnen Verarbeitungsvorgängen, bei denen personenbezogene Daten entweder automatisiert (=elektronisch) oder zunächst nicht automatisiert (=analog) verarbeitet werden, aber später in ein Dateisystem gespeichert werden sollen. Der Inhalt eines solchen Verzeichnisses ist gesetzlich geregelt. Das Verzeichnis muss wesentliche Angaben zur Verarbeitung beinhalten. Die Zwecke der Verarbeitung, die Beschreibung der betroffenen Datenkategorien und Personen sind aufzulisten. Eine bestimmte Form ist für das Verzeichnis nicht vorgesehen."
+				},
+				{
+					"First Side": "Wer muss ein Verzeichnis von Verarbeitungstätigkeiten anlegen?",
+					"Second Side": "Alle Unternehmen, die personenbezogene Daten automatisiert oder nicht automatisiert verarbeiten und sie in einem Dateisystem speichern oder speichern wollen, müssen ein Verzeichnis über die Verarbeitungen führen.",
+					"Learn more": "Das Gesetz sieht eine Ausnahme vor: Unternehmen mit weniger als 250 Mitarbeitern sind von der Pflicht ein Verarbeitungsverzeichnis zu führen befreit. Aber auch nur dann, wenn die Verarbeitung selbst nicht ein Risiko birgt - das ist z. B. immer der Fall bei Scoring und Überwachungsmaßnahmen, die Verarbeitung nur gelegentlich erfolgt, und keine besonderen sensiblen Datenkategorien, wie z. B. Religions-, Gesundheitsdaten usw. betroffen sind. Die meisten Unternehmen verarbeiten regelmäßig Daten ihrer Mitarbeiter und Kunden, so dass die Ausnahmevorschrift in den meisten Fällen nicht greift und das Verarbeitungsverzeichnis geführt werden muss. "
+				},
+				{
+					"First Side": "Muss ich auch noch Datensicherheit beachten?",
+					"Second Side": "Ja, die DSGVO verknüpft Datenschutz und Datensicherheit.",
+					"Learn more": "Die personenbezogenen Daten, die in dem Unternehmen verarbeitet werden, müssen auch technisch geschützt werden, indem sog. technisch-organisatorische Maßnahmen getroffen sind. Sie hängen von der Schutzwürdigkeit der Daten und der Intensität der Verarbeitung ab. Aber schon aus eigenem Interesse sollte jedes Unternehmen seine Daten – ob personenbezogen oder nicht – ausreichend gegen Fremdzugriffe schützen. Das betrifft auch den Schutz vor Feuer und Wasser, so dass – verschlüsselte - Sicherungskopien an einem anderen Ort aufbewahrt werden sollten. Das Niveau der Datensicherheit ist abhängig vom Umfang der Datenverarbeitung, der Schutzwürdigkeit der Daten, ob sie online oder offline verarbeitet werden und den Zugriffsmöglichkeiten auf die Daten."
+				},
+				{
+					"First Side": "Was sind die wichtigsten Maßnahmen zur Umsetzung der DSGVO?",
+					"Second Side": "Zweck der DSGVO ist es vor allem, mehr Transparenz über Datenverarbeitungen gegenüber dem Betroffenen zu schaffen",
+					"Learn more": "...und dessen Rechte (Auskunft über gespeicherte Daten, Berichtigung oder Löschen von Daten) zu stärken. Gegenüber der Landesdatenschutzaufsicht muss das Unternehmen nachweisen, dass es aktiv Maßnahmen zur Einhaltung dieser Prinzipien und zur Sicherung der Datenverarbeitung umsetzt. "
+				},
+				{
+					"First Side": "Gibt es besondere Stolperfallen für Startups?",
+					"Second Side": "Datenschutzfragen sollten bereits in der Gründungsphase geklärt werden.",
+					"Learn more": "Wer Produkte wie Apps und Software entwickeln möchte, sollte den Grundsatz „Datenschutz durch Technik/Technikvoreinstellung“ beachten und datenschutzkonforme Produkte herstellen. Richtig umgesetzt, kann Datenschutz auch ein Marketingvorteil sein."
+				},
+				{
+					"First Side": "Wann müssen personenbezogene Daten gelöscht werden?",
+					"Second Side": "Personenbezogene Daten müssen grundsätzlich gelöscht werden, wenn diese für den Geschäftsprozess nicht mehr erforderlich sind.",
+					"Learn more": "Personenbezogene Daten müssen grundsätzlich gelöscht werden, wenn diese für den Geschäftsprozess nicht mehr erforderlich sind, der Zweck, für den sie erhoben worden sind, also erfüllt ist. Die Löschung darf nicht vor Ablauf gesetzlicher Aufbewahrungsfristen erfolgen, z. B. weil es Handelsbriefe (6 Jahre) sind oder steuerrechtliche Gründe (10 Jahre) eine Aufbewahrung vorschreiben. Grundsätzlich empfiehlt sich für jedes Unternehmen, ein sog. „Löschkonzept“ aufzusetzen. Dies ist zukünftig allein deswegen wichtig, um dem Grundsatz der Datenminimierung nach der DSGVO nachzukommen."
+				}
+			
+			],
+			"glossries": []
+		},
+		
+		{
+			"categoryName": "Deck D",
+			"FlashCardMaker": "AB",
+			"explanation": "Third Deck explanation",
+			"slides": [
+				{
+					"First Side": "<bold>Was</bold> ist <red>die</red> DSGVO?",
+					"Second Side": "<red>Eine</red> Verordnung der Europäischen Union, die darauf abzielt, den Umgang mit personenbezogenen Informationen zu standardisieren, insbesondere im Hinblick auf die Sicherheit und den Schutz von personenbezogenen Daten.",
+					"Learn more": "<red>Mit</red> Wirkung zum 25. Mai 2018 ist die Datenschutzgrundverordnung (DSGVO) eine Verordnung im EU-Recht zum Datenschutz und zur Wahrung der Privatsphäre für alle Personen innerhalb der Europäischen Union (EU) und des Europäischen Wirtschaftsraums (EWR). Es geht auch um den Export personenbezogener Daten außerhalb der EU und EWR-Gebiete. In einer zunehmend datengestützten Welt zielt die DSGVO in erster Linie darauf ab, Einzelpersonen die Kontrolle über ihre personenbezogenen Daten zu geben und das regulatorische Umfeld für internationale Unternehmen zu vereinfachen, indem sie die Regulierung innerhalb der EU vereinheitlicht. Seit ihrer Umsetzung ist die DSGVO weltweit zu einem Standard geworden."
+				},
+				{
+					"First Side": "Wer ist in erster Linie von der DSGVO betroffen?",
+					"Second Side": "EU-Bürger und alle Stellen, die ihre Daten verarbeiten.",
+					"Learn more": "Die betroffene Person ist definiert als eine natürliche Person, z.B. ein Bürger eines EU-Landes oder eines anderen Landes. Der Verantwortliche für die Datenverarbeitung (Controller) ist eine natürliche oder juristische Person. Der Verantwortliche für die Datenverarbeitung bestimmt die Zwecke und Bedingungen für die Verarbeitung personenbezogener Daten, z.B. gewinnorientierte und/oder gemeinnützige Unternehmen, Regierungen, staatliche Stellen und Personen. Der Datenverarbeiter (Processor) ist eine natürliche oder juristische Person, die personenbezogene Daten im Auftrag des Verantwortlichen verarbeitet, z.B. ein IT-Anbieter. Die DSGVO erlegt dem Verantwortlichen für die Datenverarbeitung, der letztlich für die rechtmäßige Verarbeitung personenbezogener Daten verantwortlich ist, verschiedene Pflichten auf. Verantwortliche dürfen nur Datenverarbeiter einsetzen, die die von der DSGVO vorgeschriebenen Anforderungen an eine rechtmäßige Verarbeitung personenbezogener Daten erfüllen können."
+				}
+			],
+			"glossries": []
+		},
 		{
 			"categoryName": "BARRIERE-FREIHEIT",
 			"FlashCardMaker": "WI",
@@ -172,42 +291,6 @@
 				},
 				{
 					"First Side": "This is a <link href='https://flutter.dev'> Link </link>",
-					"Second Side": "EU-Bürger und alle Stellen, die ihre Daten verarbeiten.",
-					"Learn more": "Die betroffene Person ist definiert als eine natürliche Person, z.B. ein Bürger eines EU-Landes oder eines anderen Landes. Der Verantwortliche für die Datenverarbeitung (Controller) ist eine natürliche oder juristische Person. Der Verantwortliche für die Datenverarbeitung bestimmt die Zwecke und Bedingungen für die Verarbeitung personenbezogener Daten, z.B. gewinnorientierte und/oder gemeinnützige Unternehmen, Regierungen, staatliche Stellen und Personen. Der Datenverarbeiter (Processor) ist eine natürliche oder juristische Person, die personenbezogene Daten im Auftrag des Verantwortlichen verarbeitet, z.B. ein IT-Anbieter. Die DSGVO erlegt dem Verantwortlichen für die Datenverarbeitung, der letztlich für die rechtmäßige Verarbeitung personenbezogener Daten verantwortlich ist, verschiedene Pflichten auf. Verantwortliche dürfen nur Datenverarbeiter einsetzen, die die von der DSGVO vorgeschriebenen Anforderungen an eine rechtmäßige Verarbeitung personenbezogener Daten erfüllen können."
-				}
-			],
-			"glossries": []
-		},
-		{
-			"categoryName": "Deck C",
-			"FlashCardMaker": "AB",
-			"explanation": "Third Deck explanation",
-			"slides": [
-				{
-					"First Side": "<bold>Was</bold> ist <red>die</red> DSGVO?",
-					"Second Side": "<red>Eine</red> Verordnung der Europäischen Union, die darauf abzielt, den Umgang mit personenbezogenen Informationen zu standardisieren, insbesondere im Hinblick auf die Sicherheit und den Schutz von personenbezogenen Daten.",
-					"Learn more": "<red>Mit</red> Wirkung zum 25. Mai 2018 ist die Datenschutzgrundverordnung (DSGVO) eine Verordnung im EU-Recht zum Datenschutz und zur Wahrung der Privatsphäre für alle Personen innerhalb der Europäischen Union (EU) und des Europäischen Wirtschaftsraums (EWR). Es geht auch um den Export personenbezogener Daten außerhalb der EU und EWR-Gebiete. In einer zunehmend datengestützten Welt zielt die DSGVO in erster Linie darauf ab, Einzelpersonen die Kontrolle über ihre personenbezogenen Daten zu geben und das regulatorische Umfeld für internationale Unternehmen zu vereinfachen, indem sie die Regulierung innerhalb der EU vereinheitlicht. Seit ihrer Umsetzung ist die DSGVO weltweit zu einem Standard geworden."
-				},
-				{
-					"First Side": "Wer ist in erster Linie von der DSGVO betroffen?",
-					"Second Side": "EU-Bürger und alle Stellen, die ihre Daten verarbeiten.",
-					"Learn more": "Die betroffene Person ist definiert als eine natürliche Person, z.B. ein Bürger eines EU-Landes oder eines anderen Landes. Der Verantwortliche für die Datenverarbeitung (Controller) ist eine natürliche oder juristische Person. Der Verantwortliche für die Datenverarbeitung bestimmt die Zwecke und Bedingungen für die Verarbeitung personenbezogener Daten, z.B. gewinnorientierte und/oder gemeinnützige Unternehmen, Regierungen, staatliche Stellen und Personen. Der Datenverarbeiter (Processor) ist eine natürliche oder juristische Person, die personenbezogene Daten im Auftrag des Verantwortlichen verarbeitet, z.B. ein IT-Anbieter. Die DSGVO erlegt dem Verantwortlichen für die Datenverarbeitung, der letztlich für die rechtmäßige Verarbeitung personenbezogener Daten verantwortlich ist, verschiedene Pflichten auf. Verantwortliche dürfen nur Datenverarbeiter einsetzen, die die von der DSGVO vorgeschriebenen Anforderungen an eine rechtmäßige Verarbeitung personenbezogener Daten erfüllen können."
-				}
-			],
-			"glossries": []
-		},
-		{
-			"categoryName": "Deck D",
-			"FlashCardMaker": "AB",
-			"explanation": "Third Deck explanation",
-			"slides": [
-				{
-					"First Side": "<bold>Was</bold> ist <red>die</red> DSGVO?",
-					"Second Side": "<red>Eine</red> Verordnung der Europäischen Union, die darauf abzielt, den Umgang mit personenbezogenen Informationen zu standardisieren, insbesondere im Hinblick auf die Sicherheit und den Schutz von personenbezogenen Daten.",
-					"Learn more": "<red>Mit</red> Wirkung zum 25. Mai 2018 ist die Datenschutzgrundverordnung (DSGVO) eine Verordnung im EU-Recht zum Datenschutz und zur Wahrung der Privatsphäre für alle Personen innerhalb der Europäischen Union (EU) und des Europäischen Wirtschaftsraums (EWR). Es geht auch um den Export personenbezogener Daten außerhalb der EU und EWR-Gebiete. In einer zunehmend datengestützten Welt zielt die DSGVO in erster Linie darauf ab, Einzelpersonen die Kontrolle über ihre personenbezogenen Daten zu geben und das regulatorische Umfeld für internationale Unternehmen zu vereinfachen, indem sie die Regulierung innerhalb der EU vereinheitlicht. Seit ihrer Umsetzung ist die DSGVO weltweit zu einem Standard geworden."
-				},
-				{
-					"First Side": "Wer ist in erster Linie von der DSGVO betroffen?",
 					"Second Side": "EU-Bürger und alle Stellen, die ihre Daten verarbeiten.",
 					"Learn more": "Die betroffene Person ist definiert als eine natürliche Person, z.B. ein Bürger eines EU-Landes oder eines anderen Landes. Der Verantwortliche für die Datenverarbeitung (Controller) ist eine natürliche oder juristische Person. Der Verantwortliche für die Datenverarbeitung bestimmt die Zwecke und Bedingungen für die Verarbeitung personenbezogener Daten, z.B. gewinnorientierte und/oder gemeinnützige Unternehmen, Regierungen, staatliche Stellen und Personen. Der Datenverarbeiter (Processor) ist eine natürliche oder juristische Person, die personenbezogene Daten im Auftrag des Verantwortlichen verarbeitet, z.B. ein IT-Anbieter. Die DSGVO erlegt dem Verantwortlichen für die Datenverarbeitung, der letztlich für die rechtmäßige Verarbeitung personenbezogener Daten verantwortlich ist, verschiedene Pflichten auf. Verantwortliche dürfen nur Datenverarbeiter einsetzen, die die von der DSGVO vorgeschriebenen Anforderungen an eine rechtmäßige Verarbeitung personenbezogener Daten erfüllen können."
 				}
