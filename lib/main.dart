@@ -29,8 +29,9 @@ class MyApp extends ConsumerWidget {
       title: 'Flutter Web for Slides',
       locale: _locale,
       supportedLocales: const [
-        Locale('en', ''),
         Locale('de', ''),
+        Locale('en', ''),
+        
       ],
       localizationsDelegates: const [
         AppLocalizations.delegate,
