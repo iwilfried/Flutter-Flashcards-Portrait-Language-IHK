@@ -13,7 +13,8 @@
 	"question": "FRAGE",
 	"answer": "ANTWORTEN",
 	"activeLanguages" : [
-		"de"
+		"de",
+		"en"
 	],
 	"tags": [
 		{
